@@ -1,0 +1,11 @@
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.csprojAssemblyReference.cache
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.csproj.CoreCompileInputs.cache
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.AssemblyInfoInputs.cache
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.AssemblyInfo.cs
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.deps.json
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.runtimeconfig.json
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.runtimeconfig.dev.json
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.dll
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.pdb
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.dll
+C:\Users\Calefi Notebook\source\repos\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.pdb
